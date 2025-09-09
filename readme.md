@@ -7,5 +7,5 @@ New website for Tavel Site Pro - this is the correct repo, ignore all other repo
 To run the project locally, follow these steps from the root folder:
 
 ```bash
-dotnet run --project ".\src\TravelSitePro"
+dotnet run --project "./src/TravelSitePro"
 ```
